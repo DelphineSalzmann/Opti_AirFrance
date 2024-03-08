@@ -22,7 +22,7 @@ For all the dates entered, we have datasets that contain the following data stru
 
 ## Static model
 
-We can see that the problem of allocating passengers on an airplane requires a binary variable \(S_{ij}\), which associates each passenger \(i\) with a seat (j):
+We can see that the problem of allocating passengers on an airplane requires a binary variable $S_{ij}$, which associates each passenger i with a seat j:
 
 
 $$S_{ij} = 
