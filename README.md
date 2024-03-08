@@ -3,8 +3,8 @@
 Optimizing passenger seating for group cohesion, aircraft balance, and special needs is crucial for both customer satisfaction and operational efficiency. 
 
 ## Contents
-- [Overview of the data](#Overview of the data)
-- [Static model](#Static model)
+- [Overview of the Data](#overview-of-the-data)
+- [Static Model](#static-model)
 
 ## Overview of the data
 
