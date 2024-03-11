@@ -64,7 +64,7 @@ $$f = \sum_{k=1}^{n_t} \sum_{j=1}^{n_s} S_{k,j} \times \frac{1}{T_k} \times q$$
 where: 
 
 
-- **\( $$f$$ \)**: Represents the objective function.
-- **\( $$n_t$$ \)**: Denotes the total number of transit passengers.
-- **\( $$T_k$$ \)**: Stands for the connection time of transit passenger \( k \).
-- **\( $$q$$ \)**: A parameter representing the weight associated with the seat's position in the aircraft.
+- ** $$f$$ **: Represents the objective function.
+- ** $$n_t$$ **: Denotes the total number of transit passengers.
+- ** $$T_k$$ **: Stands for the connection time of transit passenger \( k \).
+- ** $$q$$ **: A parameter representing the weight associated with the seat's position in the aircraft.
