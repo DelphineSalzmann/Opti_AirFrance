@@ -47,11 +47,11 @@ $$\sum_{j=1}^{n_s} S_{ij} = 1 ~~\forall i \in [1, n_p]$$
 
 It is important that the plane has a balanced weight distribution around its center of mass
 
-$$x_g = \sum_{i=1}^{n_p}   \sum_{j=1}^{n_s} \dfrac{(j\mod 7)S_{i,j}w_i}{\sum_{i=1}^{n_p} w_i}$$
+$$x_g = \sum_{i=1}^{n_p}   \sum_{j=1}^{n_s} \frac{(j\mod 7)S_{i,j}w_i}{\sum_{i=1}^{n_p} \cdot w_i}$$
 
 $$3 < x_g < 7$$
 
-$$y_g = \sum_{i=1}^{np}  \sum_{j=1}^{ns} \dfrac{(j\mod 21)S_{i,j}w_i}{\sum_{i=1}^{np} w_i}$$
+$$y_g = \sum_{i=1}^{np}  \sum_{j=1}^{ns} \frac{(j\mod 21)S_{i,j}w_i}{\sum_{i=1}^{np} \cdot w_i}$$
 
 $$13 < y_g < 17$$
 
